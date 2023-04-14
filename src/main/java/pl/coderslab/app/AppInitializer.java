@@ -3,6 +3,7 @@ package pl.coderslab.app;
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 import pl.coderslab.configuration.AppConfig;
+
 import javax.servlet.Filter;
 
 public class AppInitializer extends
